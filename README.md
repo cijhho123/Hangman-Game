@@ -1,4 +1,7 @@
 # Campus IL's course: Self.py final project
+Campus IL, the National Digital Learning Initiative's introductory course for learning python: Self.py </br>
+This repo contain Hangman Game written in python as the final project of the cource. and also including all the tasks given along the cource.</br>
+The rest of the Readme is the instructions from the project page in Campus IL written in Hebrew.</br>
 
 ## איש תלוי
 מתרגשים לשחק? גם אנחנו. הגיע הזמן ללקט ולחבר את חלקי המשחק שכתבתם לאורך הקורס ולכתוב תוצר סופי שהוא המשחק המלא איש תלוי!
