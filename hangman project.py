@@ -260,8 +260,8 @@ def guess_letter(old_letters_guessed, secret_word):
 
 def main():
     print_welcome_menu()
-    secret_word = get_word()  # path to file:     D:\Users\cijhho123456\Downloads\test.txt
-
+    secret_word = get_word()  
+    
     number_of_errors = 0
     old_letters_guessed = []
 
